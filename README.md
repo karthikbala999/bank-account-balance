@@ -1,0 +1,2 @@
+# bank-account-balance
+in a given month , N transactions related to a bank accountb are passed as the input along with the initial balance ib present in the bank accounbt. the program must print the final balance FB in the account after all the N transactions have been completed. Each transaction has a code followed by the amount. the following are the possible codes and code is classifiued either as credit and debit
